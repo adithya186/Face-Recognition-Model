@@ -24,8 +24,9 @@ This is a simple **Face Detection & Attendance System** built using **Flask** an
    ```bash
    git clone https://github.com/yourusername/face-detection-attendance.git
    cd face-detection-attendance
-pip install flask opencv-python
-
-python app.py
-
-http://127.0.0.1:5000/
+2. **Install dependencies**
+   ```bash
+   pip install flask opencv-python
+3.**Run the application**
+   ```bash
+   python app.py
